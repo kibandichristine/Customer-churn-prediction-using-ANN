@@ -34,6 +34,9 @@ The primary objective is to build and evaluate a neural network that can be appl
 4. **Visualization**: 
     - Training and validation accuracy over epochs.
     - Training and validation loss over epochs.
+      
+5. ** Deployment**:
+   - deployed using streamlit
 
 ## Requirements
 
@@ -41,10 +44,6 @@ The primary objective is to build and evaluate a neural network that can be appl
 - TensorFlow (for Keras)
 - NumPy
 - Matplotlib
+- streamlit
 
-## Installation
 
-To run this project, ensure you have the necessary Python packages installed. You can install them using pip:
-
-```bash
-pip install tensorflow numpy matplotlib
